@@ -4,7 +4,7 @@
 
 ## 🌐 Live Portfolio
 
-[View My Portfolio](a)
+[View My Portfolio]
 
 ## 🛠️ Tech Stack
 
